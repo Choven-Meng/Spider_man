@@ -1,0 +1,2 @@
+# spider_toutiao_jiepai
+ajax动态爬取今日头条街拍美图，并保存到mongodb数据库和相应的文件夹
